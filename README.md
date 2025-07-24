@@ -14,5 +14,5 @@ My Virtual VC
 
 - Email: rynowil001@gmail.com  
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ryno-williamson-4a390b375/)  
-- GitHub: [@Ryno134](https://github.com/yourusername)
+- GitHub: [@Ryno134](https://github.com/Ryno134)
 
